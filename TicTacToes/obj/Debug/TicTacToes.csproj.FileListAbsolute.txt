@@ -1,0 +1,9 @@
+c:\users\дима\documents\visual studio 2015\Projects\TicTacToes\TicTacToes\bin\Debug\TicTacToes.exe.config
+c:\users\дима\documents\visual studio 2015\Projects\TicTacToes\TicTacToes\bin\Debug\TicTacToes.exe
+c:\users\дима\documents\visual studio 2015\Projects\TicTacToes\TicTacToes\bin\Debug\TicTacToes.pdb
+c:\users\дима\documents\visual studio 2015\Projects\TicTacToes\TicTacToes\obj\Debug\TicTacToes.csprojResolveAssemblyReference.cache
+c:\users\дима\documents\visual studio 2015\Projects\TicTacToes\TicTacToes\obj\Debug\TicTacToes.Form1.resources
+c:\users\дима\documents\visual studio 2015\Projects\TicTacToes\TicTacToes\obj\Debug\TicTacToes.Properties.Resources.resources
+c:\users\дима\documents\visual studio 2015\Projects\TicTacToes\TicTacToes\obj\Debug\TicTacToes.csproj.GenerateResource.Cache
+c:\users\дима\documents\visual studio 2015\Projects\TicTacToes\TicTacToes\obj\Debug\TicTacToes.exe
+c:\users\дима\documents\visual studio 2015\Projects\TicTacToes\TicTacToes\obj\Debug\TicTacToes.pdb
